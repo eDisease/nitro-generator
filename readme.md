@@ -11,8 +11,6 @@ A blazing-fast program to effortlessly generate Discord Nitro gift links, brough
 - Open Source Repository: https://github.com/eDisease
 - OGUsers Page: https://ogusers.gg/eDisease
 
-# Published on: 12/10/2023
-
 ## 🚀 Installation
 
 **Requirements:** Python 3+
@@ -31,3 +29,4 @@ A blazing-fast program to effortlessly generate Discord Nitro gift links, brough
 Make sure to fork 🍴 and star ⭐️ the repository!
 
 **Note:** The use of automated tools to generate Nitro gift links may violate Discord's Terms of Service. Use this tool responsibly and in compliance with Discord's policies.
+**Published on: 12/10/2023**
