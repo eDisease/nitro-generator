@@ -17,7 +17,7 @@ A blazing-fast program to effortlessly generate Discord Nitro gift links, brough
 
 1. Run 'install.bat'
 2. Open a command prompt
-3. Navigate to the installation directory (`cd Desktop\nitro-generator`)
+3. Navigate to the installation directory (`cd Desktop\nitro-generator-main`)
 4. Start the program: `python main.py`
 
 ## ✨ Features
