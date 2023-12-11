@@ -30,7 +30,7 @@ def main():
 
     first_iteration = True
     for i in range(99999):
-        time.sleep(random.uniform(0, 1))
+        time.sleep(random.uniform(4, 5))
 
         code = generate_code()
         if first_iteration:
